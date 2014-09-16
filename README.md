@@ -5,7 +5,7 @@ Project document for Nick Marcucci, Philip Zastrow and Allen May.
 
 REQUIREMENTS (Things to explore):
 - Clean Architectures
-  - -----
+  - ??
 - Build Automation
   - Grunt
 - Deployment Automation
@@ -16,4 +16,5 @@ REQUIREMENTS (Things to explore):
   - Cucumber
 - Data Stores (Relational, Document, Key/Value, Database as a Service)
   - Minimal DB
+    - Firebase?
   - Mostly API calls
