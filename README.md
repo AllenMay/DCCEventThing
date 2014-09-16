@@ -18,3 +18,8 @@ REQUIREMENTS (Things to explore):
   - Minimal DB
     - Firebase?
   - Mostly API calls
+
+TODO FOR 10/21/2014
+- Expore data sources
+  - API normalization
+  - What would go in DB (Schema)
