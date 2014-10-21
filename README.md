@@ -17,6 +17,7 @@ REQUIREMENTS (Things to explore):
 - Data Stores (Relational, Document, Key/Value, Database as a Service)
   - Minimal DB
     - Firebase?
+    - Use IFTTT / Zapier?
   - Mostly API calls
 
 TODO FOR 10/21/2014
